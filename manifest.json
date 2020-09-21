@@ -1,0 +1,20 @@
+{
+  "short_name": "Apertik",
+  "name": "Apertik App",
+  "description": "Aplikasi Perhitungan Tiket",
+  "background_color": "#EAEAEA",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "../assets/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../assets/images/logo.png",
+      "type": "images/png",
+      "sizes": "512x512"
+    }
+  ]
+}
